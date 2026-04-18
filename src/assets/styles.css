@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7fa;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    margin-bottom: 20px;
+}
+.dashboard {
+    display: flex;
+    gap: 20px;
+}
+.card {
+    flex: 1;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+.blue {
+    background: #2d6cdf;
+}
+.green {
+    background: #28a745;
+}
+.orange {
+    background: #f4b400;
+}
+.contact-section {
+    background: #f8f9fa;
+    padding: 50px 20px;
+}
+.form-box {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+.about-section {
+    background: #f5f7fa;
+    padding: 60px 20px;
+}
+.about-card {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+}

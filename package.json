@@ -1,0 +1,27 @@
+{
+  "name": "keshavt2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusuma829-mvsr/KESHAVT2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kusuma829-mvsr/KESHAVT2/issues"
+  },
+  "homepage": "https://github.com/kusuma829-mvsr/KESHAVT2#readme",
+  "dependencies": {
+    "nunjucks": "^3.2.4",
+    "vite": "^8.0.8",
+    "vite-plugin-nunjucks": "^0.2.0"
+  }
+}
